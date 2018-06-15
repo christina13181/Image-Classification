@@ -7,7 +7,9 @@ Jingyi_Rondom_Forest.ipynb is the main code that implement the image classificat
 TryOOB.ipynb is part of the main code to get the out-of-bag error rate.
 
 workflow
+
 It can be divided into three parts: data preprocessing, image classification, output assessment and accuracy evaluation. 
+
 ![image](https://user-images.githubusercontent.com/17690433/41450019-e0907a28-7032-11e8-8f9b-a65df286dc64.png)
 
 
@@ -22,5 +24,7 @@ OOB Error
 
 
 Classification Results
+
 (a) Raw UAV Image (b) Maxmium Likelihood Classification Result (c) SVM Classification Result (d) Random Forest Classification Result
+
 ![image](https://user-images.githubusercontent.com/17690433/41450042-067721ba-7033-11e8-83aa-30a6014fac33.png)
